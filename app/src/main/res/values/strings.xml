@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">OCR</string>
+    <string name="navigation_drawer_open">Abrir menú</string>
+    <string name="navigation_drawer_close">Cerrar menú</string>
+    <string name="mi_perfil">Mi Perfil</string>
+    <string name="configuraci_n">Configuración</string>
+    <string name="cerrar_sesi_n">Cerrar Sesión</string>
+    <string name="client_id">1052061804773-o0f44ph6tnll0mtg5oakfmclhniaul8t.apps.googleusercontent.com</string>
+</resources>

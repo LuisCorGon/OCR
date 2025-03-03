@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1052061804773",
+    "project_id": "digitalizacion-de-textos",
+    "storage_bucket": "digitalizacion-de-textos.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1052061804773:android:6c2d201663ff7471e80c0c",
+        "android_client_info": {
+          "package_name": "com.luiscortes.ocr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1052061804773-o0f44ph6tnll0mtg5oakfmclhniaul8t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAir3tk-nQgEMdp2jG9QM_UiNucXg9_87c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1052061804773-avmrmq8usv4a3jd171m8pcev7ls54lvm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
